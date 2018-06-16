@@ -28,7 +28,9 @@ __Bot de Discord encargado de hacer que personas de distintos servidores se pued
 
 > Modo de uso:
 
-+ Habla con otras personas en el canal #the-interchat simplemente escribiendo mensajes en ese canal. Recibirás mensajes de otras personas en el mismo canal. Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
++ Habla con otras personas en el canal #the-interchat simplemente escribiendo mensajes en ese canal. 
+Recibirás mensajes de otras personas en el mismo canal. 
+Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 * * *
 
