@@ -37,11 +37,11 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 > Emojis y Servidores Exclusivos
 
-+ Desarrollador y Ayudante: ![big](https://i.imgur.com/vY4tQFa.png)
++ Desarrollador y Ayudante: ![big](https://i.imgur.com/zUu54Lq.png)
 
-+ Moderador: ![big](https://i.imgur.com/fvw9AQX.png)
++ Moderador: ![big](https://i.imgur.com/72CtpHJ.png)
 
-+ Emoji exclusivo de `Gaming Untill Death: Reward System`: ![big](https://i.imgur.com/iDli1sV.png)
++ Emoji exclusivo de `Gaming Untill Death: Reward System`: ![big](https://i.imgur.com/l3njcEq.png)
 
 * * *
 
