@@ -73,4 +73,9 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 * * *
 
+> Bugs
 
++ Si encuentras un bug puedes reportarlo a @Seyron#8089, AnrihEleganteh#4184 o Santi_24 Yt#4937.
+
++ Si reportas un bug y estás en el servidor oficial de TheInterchat recibirás el rol Bug Tester que hará que puedas patrocinar un servidor en nuestro canal partner.
+* * * 
