@@ -42,3 +42,29 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 + Moderador: ![big](https://i.imgur.com/fvw9AQX.png)
 
 + Emoji exclusivo de `Gaming Untill Death: Reward System`: ![big](https://i.imgur.com/iDli1sV.png)
+
+* * *
+
+> Reglas
+
++ Respetar a los usuarios que usen el bot.
+
++ Todo el contenido pornográfico/gore resultará en bloqueo permanente.
+
++ Prohibida la discriminación de cualquier tipo, ya sea por raza, sexo o condición social.
+
++ Prohibido ser troll, bully o toxico.
+
++ Prohibido el spam.
+
+* * *
+
+> Próximamente
+
++ Comunicación por canal de voz.
+
++ Servidor de The-Interchat con exclusividad.
+
++ Exclusividad a más servidores.
+
+* * *
