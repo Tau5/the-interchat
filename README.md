@@ -43,6 +43,8 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 + Emoji exclusivo de `Gaming Untill Death: Reward System`: ![big](https://i.imgur.com/l3njcEq.png)
 
+`PD: Cualquier supuesto Emoji/Servidor exclusivo que no salga aqui es falso. No os dejeis engañar.`
+
 * * *
 
 > Reglas
