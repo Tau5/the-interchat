@@ -39,6 +39,6 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 + Desarrollador y Ayudante: ![big](https://i.imgur.com/vY4tQFa.png)
 
-+ Anunciante: ![big](https://i.imgur.com/4Jlm48X.png)
++ Moderador: ![big](https://i.imgur.com/fvw9AQX.png)
 
 + Emoji exclusivo de `Gaming Untill Death: Reward System`: ![big](https://i.imgur.com/iDli1sV.png)
