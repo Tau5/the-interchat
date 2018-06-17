@@ -69,4 +69,8 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 + Exclusividad a más servidores.
 
++ Poder editar los mensajes.
+
 * * *
+
+
