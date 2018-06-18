@@ -20,7 +20,7 @@ __Bot de Discord encargado de hacer que personas de distintos servidores se pued
 
 > Requisitos:
 
-+ (De momento) Hablar con Seyron para agregar el bot al servidor ya que es privado.
++ Bot The-Interchat.
 
 + Canal the-interchat.
 
