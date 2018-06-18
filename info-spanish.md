@@ -21,7 +21,6 @@ __Bot de Discord encargado de hacer que personas de distintos servidores se pued
 > Requisitos:
 
 + Bot The-Interchat.
-
 + Canal the-interchat.
 
 * * *
@@ -75,7 +74,7 @@ Ejemplo: ![big](https://i.imgur.com/24D4YOq.png)
 
 > Bugs
 
-+ Si encuentras un bug puedes reportarlo a @Seyron#8089, AnrihEleganteh#4184 o Santi_24 Yt#4937.
++ Si encuentras un bug puedes reportarlo a @Seyron#8089, AnrihEleganteh#4184, Santi_24 Yt#4937 o Tau#9838.
 
 + Si reportas un bug y estás en el servidor oficial de TheInterchat recibirás el rol Bug Tester que hará que puedas patrocinar un servidor en nuestro canal partner.
 * * * 
